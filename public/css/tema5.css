@@ -1,0 +1,154 @@
+/* Navbar Header */
+.navbar{
+  height: 70px;
+  margin-bottom: 0;
+     padding-top: 0;
+  padding-bottom: 0;
+  margin-top: 0;
+}
+.navbar a{
+  font-size: 15px;
+}
+.navbar ul li a:hover{
+  font-size: 100%;
+  background: #2dc997;
+  color: #fff;    
+  transition: width 2s;
+  width: 100%;
+  
+}
+/* akhir navbar header */
+h1{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container #sejarah{
+    background-color: #BFDB87;
+}
+
+/* class sejarah */
+.sejarah {
+    background-color: grey;
+}
+#sejarah  p{
+    text-align: justify;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.card {
+    background-color: white;
+}
+.card p{
+    text-align: justify;
+    font-weight: bold;
+}
+/* akhir */
+/* about */
+/* About Us Section
+--------------------------------*/
+
+#about {
+    background: #fff;
+    padding: 80px 0;
+  }
+   
+  #about .about-container .content {
+    background: #fff;
+  }
+  
+  #about .about-container .title {
+    color: #333;
+    font-weight: 700;
+    font-size: 32px;
+  }
+  
+    #about .about-container .title {
+      padding-top: 15px;
+    }
+  
+    #about .about-container p {
+    line-height: 26px;
+  }
+    #about .about-container p:last-child {
+    margin-bottom: 0;
+  }
+  
+  #about .about-container .icon-box {
+    background: #fff;
+    background-size: cover;
+    padding: 0 0 30px 0;
+  }
+  
+  #about .about-container .icon-box .icon {
+    float: left;
+    background: #fff;
+    width: 64px;
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    border-radius: 50%;
+    border: 2px solid #2dc997;
+  }
+  
+  #about .about-container .icon-box .icon i {
+    color: #2dc997;
+    font-size: 24px;
+  }
+  
+  #about .about-container .icon-box .title {
+    margin-left: 80px;
+    font-weight: 500;
+    margin-bottom: 5px;
+    font-size: 18px;
+    text-transform: uppercase;
+  }
+  
+  #about .about-container .icon-box .title a {
+    color: #111;
+  }
+  
+  #about .about-container .icon-box .description {
+    margin-left: 80px;
+    line-height: 24px;
+    font-size: 14px;
+  }
+  .foto{
+    height: 500px;
+    width: 600px;
+    margin-left: 2%;
+    border-style: solid;
+  }
+  /* services admin */
+.btn-primary{
+  border-radius: 20%;
+}
+/* Footer */
+#footer {
+    background: #343b40;
+    padding: 30px 0;
+    color: #ffffff;
+    font-size: 14px;
+  }
+  
+  #footer .copyright {
+    text-align: center;
+  }
+  
+  #footer .credits {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 13px;
+    color: #cccc;
+  }
+  .flex-container {
+    display: flex;
+    flex-direction: row;
+    margin-left: 35%;
+    margin-top: 20px;
+  }
+  
+  
